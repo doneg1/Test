@@ -4,8 +4,14 @@ import xml.etree.ElementTree as ET
 
 tree = ET.parse("TextCheck.xml")
 root = tree.getroot()
-print(root[0][0][0].tag)
-print(len(root[0][0]))
+
+print((root[0]).tag)
+
+
+
+# root = tree.getroot()
+# print(root[0][0][0].tag)
+# print(len(root[0][0]))
 
 
 
