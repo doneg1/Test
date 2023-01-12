@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<date>
+    <folders name="-">
+        <folder name="1.WB_Pattern">
+            <folder1 name="3.WB_Pattern">.jpg</folder1>
+            <folder1 name="4.WB_Pattern">.png</folder1>
+            <folder1 name="4.WB_Pattern">.png</folder1>
+        </folder>
+        <folder name="2.WB_Pattern" size="1">
+            <folder2 name="6.WB_Pattern">.jpg</folder2>
+            <folder2 name="7.WB_Pattern" size="2">.png</folder2>
+        </folder>
+        <!--<folder>2.HP</folder>
+        <folder>3.Texturing</folder>
+        <folder>4.Final_delivery</folder>
+        <size>2400x1500</size>
+    </folders>
+    <folders name="1.WB_Pattern">
+        <folder>1.WB_Pattern</folder>
+        <folder>2.HP</folder>
+        <folder>3.Texturing</folder>
+        <folder>4.Final_delivery</folder>-->
+    </folders>
+</date>
