@@ -1,11 +1,22 @@
 import xml.etree.ElementTree as ET
 
-
+def check_xml(folder):
+    pass
 
 tree = ET.parse("TextCheck.xml")
 root = tree.getroot()
+root1 = root
+# print((root[0]).tag)
+for item in root1:
+    if len(root1) > 0:
+        root1 = root1[0]
+        print(root1.tag)
 
-print((root[0]).tag)
+
+print(root.tag)
+    # for elem in root[0]:
+    #     if elem.tag == "folder":
+    #         print("ok")
 
 
 
