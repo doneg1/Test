@@ -1,0 +1,7 @@
+Folder name: !MainFolder! File format: Folders: 1.WB_Pattern, 2.HP, 3.Texturing, 4.Final_delivery Image size:
+Folder name: 1.WB_Pattern File format: .jpg, .ztl Folders: work Image size: 2500x1500
+Folder name: 2.HP File format: .jpg, .ztl Folders: Image size: 2500x1500
+Folder name: 3.Texturing File format: .asset, .jpg, .mb, .mesh, .ztl, _diffuse.dds, _normal.dds, _properties.dds, _screenshot.png Folders: baking, substance_painter, work_files Image size: 2500x1500
+Folder name: 4.Final_delivery File format: .asset, .jpg, .mb, .mesh, .ztl, _diffuse.dds, _normal.dds, _properties.dds, _screenshot.png Folders: baking, substance_painter, work_files Image size: 2500x1500
+Folder name: baking File format: .fbx, .tbscene, _ao.png, _curve.png, _normal.png, _normalobj.png, _position.png, _thickness.png, _vertexcolor.png Folders: Image size: 2500x1500
+Folder name: substance_painter File format: .meta, .spp, _BaseColor.png, _Color1.png, _Metallic.png, _Normal.png, _Opacity.png, _Roughness.png Folders: Image size: 2500x1500
