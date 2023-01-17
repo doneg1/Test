@@ -1,24 +1,82 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<date>
-    <folders name="-">
-        <folder name="1.WB_Pattern">
-            <folder1 name="3.WB_Pattern">.jpg</folder1>
-            <folder1 name="4.WB_Pattern">.png</folder1>
-            <folder1 name="4.WB_Pattern">.png</folder1>
-        </folder>
-        <folder name="2.WB_Pattern" size="1">
-            <folder2 name="6.WB_Pattern">.jpg</folder2>
-            <folder2 name="7.WB_Pattern" size="2">.png</folder2>
-        </folder>
-        <!--<folder>2.HP</folder>
-        <folder>3.Texturing</folder>
-        <folder>4.Final_delivery</folder>
-        <size>2400x1500</size>
-    </folders>
-    <folders name="1.WB_Pattern">
-        <folder>1.WB_Pattern</folder>
-        <folder>2.HP</folder>
-        <folder>3.Texturing</folder>
-        <folder>4.Final_delivery</folder>-->
-    </folders>
-</date>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <folder name="1.WB_Pattern" format=".jpg, .ztl" Image_size="2500x1500">
+        <folder name="work"/>
+    </folder>
+    <folder name="2.HP" format=".jpg, .ztl" Image_size="2500x1500"/>
+    <folder name="3.Texturing" format=".asset, .jpg, .mb, .mesh, .ztl, _diffuse.dds, _normal.dds, _properties.dds, _screenshot.png">
+        <folder name="work_files"/>
+        <folder name="baking" format=".fbx, .tbscene, _ao.png, _curve.png, _normal.png, _normalobj.png, _position.png, _thickness.png, _vertexcolor.png" Image_size="2500x1500"/>
+        <folder name="substance_painter" format=".fbx, .tbscene, _ao.png, _curve.png, _normal.png, _normalobj.png, _position.png, _thickness.png, _vertexcolor.png" Image_size="2500x1500"/>
+    </folder>
+    <folder name="4.Final_delivery" format=".asset, .jpg, .mb, .mesh, .ztl, _diffuse.dds, _normal.dds, _properties.dds, _screenshot.png">
+        <folder name="work_files"/>
+        <folder name="baking" format=".fbx, .tbscene, _ao.png, _curve.png, _normal.png, _normalobj.png, _position.png, _thickness.png, _vertexcolor.png" Image_size="2500x1500"/>
+        <folder name="substance_painter" format=".fbx, .tbscene, _ao.png, _curve.png, _normal.png, _normalobj.png, _position.png, _thickness.png, _vertexcolor.png" Image_size="2500x1500"/>
+    </folder>
+</root>
+
+<!--    <folder name="2.WB_Pattern" size="1">-->
+<!--        <folder name="6.WB_Pattern">.jpg</folder>-->
+<!--        <folder name="7.WB_Pattern" size="2">.png</folder>-->
+<!--    </folder>-->
+<!--        <folder name="43.WB_Pattern" size="1">-->
+<!--        <folder name="432.WB_Pattern">.jpg</folder>-->
+<!--        <folder name="72342.WB_Pattern" size="2">.png</folder>-->
+<!--    </folder>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<root>-->
+<!--    <Result RC="0" />-->
+<!--    <Invoices>-->
+<!--        <Invoice Invoice_ID="12123" Invoice_Owner_ID="232" ICN_ID="2321" ICN_Owner_ID="321" Receipt_Date="15.12.2016">-->
+<!--          <Receiver CompanyName="com1" ContactName="name1" Address="adr1" />-->
+<!--          <Shipper CompanyName="com2" Address="adr2" />-->
+<!--        </Invoice>-->
+<!--        <Invoice Invoice_ID="23232" Invoice_Owner_ID="32" ICN_ID="3213" ICN_Owner_ID="32" Receipt_Date="15.12.2016">-->
+<!--          <Receiver CompanyName="com3" ContactName="name2" Address="adr3" />-->
+<!--          <Shipper CompanyName="com4" Address="adr4" />-->
+<!--        </Invoice>-->
+<!--        <Invoice>-->
+<!--           ............-->
+<!--        </Invoice>-->
+
+<!--    </Invoices>-->
+<!--</root>-->
+
+
+
+
+<!--<?xml version="1.0" encoding="utf-8" ?>-->
+<!--<folders name="-">-->
+<!--    <folder name="1.WB_Pattern">-->
+<!--        <folder name="3.WB_Pattern">.jpg</folder>-->
+<!--        <folder name="4.WB_Pattern">.png</folder>-->
+<!--        <folder name="4.WB_Pattern">.png</folder>-->
+<!--    </folder>-->
+<!--    <folder name="2.WB_Pattern" size="1">-->
+<!--        <folder name="6.WB_Pattern">.jpg</folder>-->
+<!--        <folder name="7.WB_Pattern" size="2">.png</folder>-->
+<!--    </folder>-->
+<!--        <folder name="43.WB_Pattern" size="1">-->
+<!--        <folder name="432.WB_Pattern">.jpg</folder>-->
+<!--        <folder name="72342.WB_Pattern" size="2">.png</folder>-->
+<!--    </folder>-->
+<!--</folders>-->
+
