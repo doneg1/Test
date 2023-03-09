@@ -5,7 +5,13 @@
     </folder>
     <folder name="2.HP" format=".jpg, .ztl" Image_size="2500x1500"/>
     <folder name="3.Texturing" format=".asset, .jpg, .mb, .mesh, .ztl, _diffuse.dds, _normal.dds, _properties.dds, _screenshot.png">
-        <folder name="work_files"/>
+        <folder name="work_files">
+            <folder name="1work_files">
+                <folder name="2work_files">
+                    <folder name="3work_files"/>
+                </folder>
+            </folder>
+        </folder>
         <folder name="baking" format=".fbx, .tbscene, _ao.png, _curve.png, _normal.png, _normalobj.png, _position.png, _thickness.png, _vertexcolor.png" Image_size="2500x1500"/>
         <folder name="substance_painter" format=".fbx, .tbscene, _ao.png, _curve.png, _normal.png, _normalobj.png, _position.png, _thickness.png, _vertexcolor.png" Image_size="2500x1500"/>
     </folder>
@@ -15,15 +21,6 @@
         <folder name="substance_painter" format=".fbx, .tbscene, _ao.png, _curve.png, _normal.png, _normalobj.png, _position.png, _thickness.png, _vertexcolor.png" Image_size="2500x1500"/>
     </folder>
 </root>
-
-<!--    <folder name="2.WB_Pattern" size="1">-->
-<!--        <folder name="6.WB_Pattern">.jpg</folder>-->
-<!--        <folder name="7.WB_Pattern" size="2">.png</folder>-->
-<!--    </folder>-->
-<!--        <folder name="43.WB_Pattern" size="1">-->
-<!--        <folder name="432.WB_Pattern">.jpg</folder>-->
-<!--        <folder name="72342.WB_Pattern" size="2">.png</folder>-->
-<!--    </folder>-->
 
 
 
